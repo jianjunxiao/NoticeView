@@ -16,7 +16,7 @@ import com.xiao.noticeview.R;
 import java.util.List;
 
 /**
- * Created by xjj on 2017/1/14.
+ * Created by xiaoyanger on 2017/1/14.
  * 轮播公告Veiw
  */
 public class NoticeView extends ViewFlipper implements View.OnClickListener {
